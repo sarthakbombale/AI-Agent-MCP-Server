@@ -1,11 +1,11 @@
 - project architecture
   
-  Terminal (CLI)
+ - Terminal (CLI)
    ↓
-Agent Controller
+- Agent Controller
    ↓
-LLM (Reasoning)
+- LLM (Reasoning)
    ↓
-MCP Server (Tools & Context)
+- MCP Server (Tools & Context)
    ↓
-System Actions (Post creation, storage, formatting)
+- System Actions (Post creation, storage, formatting)
